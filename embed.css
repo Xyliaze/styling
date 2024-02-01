@@ -11,7 +11,7 @@ div.embed-screen {
   --purple6: #b83ebf;
 }
 .embed-variant-header.active {
-  border-width: 2px;
+  border-width: 30px;
 }
 .embed-gateway-container .gateway-list-item {
   border-width: 2px;
