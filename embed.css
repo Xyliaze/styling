@@ -1,14 +1,14 @@
 div.embed-screen {
-  --black9: #aa0093;
-  --black6: #000000;
-  --black4: #000000;
-  --black3: #a2aab4;
-  --black2: #fa00ff;
-  --black1: #fa00ff;
-  --black0: #f0afff;
-  --white: #fbefff;
-  --black: #121417;
-  --purple6: #b83ebf;
+  --black9: #0000FF;
+  --black6: #0000FF;
+  --black4: #0000FF;
+  --black3: #0000FF4;
+  --black2: #0000FF;
+  --black1: #0000FF;
+  --black0: #0000FF;
+  --white: #0000FF;
+  --black: #0000FF;
+  --purple6: #0000FF;
 }
 .embed-variant-header.active {
   border-width: 30px;
